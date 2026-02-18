@@ -1,4 +1,5 @@
 ### Recomended Folder Srructure
+```
 project/
 │
 ├── db/
@@ -8,3 +9,4 @@ project/
 │
 ├── main.py
 └── config.py
+```
